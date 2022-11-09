@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "PoleFormacraft",
+		"description": "PoleFormacraft",
+		"uuid": "98ef822a-f791-f78d-b298-b82afd48318e",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["MDF"],
+		"generated_with": {
+			"blockbench_block_wizard": ["1.0.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "PoleFormacraft",
+			"type": "resources",
+			"uuid": "5c3910eb-8279-bca5-d3aa-ba0af84cfc83",
+			"version": [1, 0, 0]
+		}
+	]
+}
