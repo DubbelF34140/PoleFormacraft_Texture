@@ -4,5 +4,479 @@
 	"padding": 8,
 	"num_mip_levels": 4,
 	"texture_data": {
+		"bureaub107": {
+			"textures": "textures/blocks/bureaub107.png"
+		},
+		"table107a": {
+			"textures": "textures/blocks/table107a.png"
+		},
+		"mdf_fautplafong_up": {
+			"textures": ["textures/blocks/faut-plafon"]
+		},
+		"mdf_fautplafong_down": {
+			"textures": ["textures/blocks/faut-plafon"]
+		},
+		"mdf_fautplafong_south": {
+			"textures": ["textures/blocks/faut-plafon"]
+		},
+		"mdf_fautplafong_north": {
+			"textures": ["textures/blocks/faut-plafon"]
+		},
+		"mdf_fautplafong_west": {
+			"textures": ["textures/blocks/faut-plafon"]
+		},
+		"mdf_fautplafong_east": {
+			"textures": ["textures/blocks/faut-plafon"]
+		},
+		"mdf_solcarreaux_up": {
+			"textures": ["textures/blocks/sol-carreau"]
+		},
+		"mdf_solcarreaux_down": {
+			"textures": ["textures/blocks/sol-carreau"]
+		},
+		"mdf_solcarreaux_south": {
+			"textures": ["textures/blocks/sol-carreau"]
+		},
+		"mdf_solcarreaux_north": {
+			"textures": ["textures/blocks/sol-carreau"]
+		},
+		"mdf_solcarreaux_west": {
+			"textures": ["textures/blocks/sol-carreau"]
+		},
+		"mdf_solcarreaux_east": {
+			"textures": ["textures/blocks/sol-carreau"]
+		},
+		"mdf_groudonrouge_up": {
+			"textures": ["textures/blocks/goudron_rouge"]
+		},
+		"mdf_groudonrouge_down": {
+			"textures": ["textures/blocks/goudron_rouge"]
+		},
+		"mdf_groudonrouge_south": {
+			"textures": ["textures/blocks/goudron_rouge"]
+		},
+		"mdf_groudonrouge_north": {
+			"textures": ["textures/blocks/goudron_rouge"]
+		},
+		"mdf_groudonrouge_west": {
+			"textures": ["textures/blocks/goudron_rouge"]
+		},
+		"mdf_groudonrouge_east": {
+			"textures": ["textures/blocks/goudron_rouge"]
+		},
+		"mdf_mur_cfai_up": {
+			"textures": ["textures/blocks/mur_gris_cfa"]
+		},
+		"mdf_mur_cfai_down": {
+			"textures": ["textures/blocks/mur_gris_cfa"]
+		},
+		"mdf_mur_cfai_south": {
+			"textures": ["textures/blocks/mur_gris_cfa"]
+		},
+		"mdf_mur_cfai_north": {
+			"textures": ["textures/blocks/mur_gris_cfa"]
+		},
+		"mdf_mur_cfai_west": {
+			"textures": ["textures/blocks/mur_gris_cfa"]
+		},
+		"mdf_mur_cfai_east": {
+			"textures": ["textures/blocks/mur_gris_cfa"]
+		},
+		"mdf_pietonaveugle_up": {
+			"textures": ["textures/blocks/passage_pietton_aveugle"]
+		},
+		"mdf_pietonaveugle_down": {
+			"textures": ["textures/blocks/passage_pietton_aveugle"]
+		},
+		"mdf_pietonaveugle_south": {
+			"textures": ["textures/blocks/passage_pietton_aveugle"]
+		},
+		"mdf_pietonaveugle_north": {
+			"textures": ["textures/blocks/passage_pietton_aveugle"]
+		},
+		"mdf_pietonaveugle_west": {
+			"textures": ["textures/blocks/passage_pietton_aveugle"]
+		},
+		"mdf_pietonaveugle_east": {
+			"textures": ["textures/blocks/passage_pietton_aveugle"]
+		},
+		"mdf_sol_parquet_up": {
+			"textures": ["textures/blocks/sol_parquet"]
+		},
+		"mdf_sol_parquet_down": {
+			"textures": ["textures/blocks/sol_parquet"]
+		},
+		"mdf_sol_parquet_south": {
+			"textures": ["textures/blocks/sol_parquet"]
+		},
+		"mdf_sol_parquet_north": {
+			"textures": ["textures/blocks/sol_parquet"]
+		},
+		"mdf_sol_parquet_west": {
+			"textures": ["textures/blocks/sol_parquet"]
+		},
+		"mdf_sol_parquet_east": {
+			"textures": ["textures/blocks/sol_parquet"]
+		},
+		"mdf_sol_cailloux_bats_up": {
+			"textures": ["textures/blocks/sol_cailloux_bats"]
+		},
+		"mdf_sol_cailloux_bats_down": {
+			"textures": ["textures/blocks/sol_cailloux_bats"]
+		},
+		"mdf_sol_cailloux_bats_south": {
+			"textures": ["textures/blocks/sol_cailloux_bats"]
+		},
+		"mdf_sol_cailloux_bats_north": {
+			"textures": ["textures/blocks/sol_cailloux_bats"]
+		},
+		"mdf_sol_cailloux_bats_west": {
+			"textures": ["textures/blocks/sol_cailloux_bats"]
+		},
+		"mdf_sol_cailloux_bats_east": {
+			"textures": ["textures/blocks/sol_cailloux_bats"]
+		},
+		"mdf_voletroulantgris_up": {
+			"textures": ["textures/blocks/volet_roulant_gris"]
+		},
+		"mdf_voletroulantgris_down": {
+			"textures": ["textures/blocks/volet_roulant_gris"]
+		},
+		"mdf_voletroulantgris_south": {
+			"textures": ["textures/blocks/volet_roulant_gris"]
+		},
+		"mdf_voletroulantgris_north": {
+			"textures": ["textures/blocks/volet_roulant_gris"]
+		},
+		"mdf_voletroulantgris_west": {
+			"textures": ["textures/blocks/volet_roulant_gris"]
+		},
+		"mdf_voletroulantgris_east": {
+			"textures": ["textures/blocks/volet_roulant_gris"]
+		},
+		"mdf_taulegrisegymnase_up": {
+			"textures": ["textures/blocks/taule_grise_gymnase_"]
+		},
+		"mdf_taulegrisegymnase_down": {
+			"textures": ["textures/blocks/taule_grise_gymnase_"]
+		},
+		"mdf_taulegrisegymnase_south": {
+			"textures": ["textures/blocks/taule_grise_gymnase_"]
+		},
+		"mdf_taulegrisegymnase_north": {
+			"textures": ["textures/blocks/taule_grise_gymnase_"]
+		},
+		"mdf_taulegrisegymnase_west": {
+			"textures": ["textures/blocks/taule_grise_gymnase_"]
+		},
+		"mdf_taulegrisegymnase_east": {
+			"textures": ["textures/blocks/taule_grise_gymnase_"]
+		},
+		"mdf_tapisrouge_up": {
+			"textures": ["textures/blocks/tapis_rouge"]
+		},
+		"mdf_tapisrouge_down": {
+			"textures": ["textures/blocks/tapis_rouge"]
+		},
+		"mdf_tapisrouge_south": {
+			"textures": ["textures/blocks/tapis_rouge"]
+		},
+		"mdf_tapisrouge_north": {
+			"textures": ["textures/blocks/tapis_rouge"]
+		},
+		"mdf_tapisrouge_west": {
+			"textures": ["textures/blocks/tapis_rouge"]
+		},
+		"mdf_tapisrouge_east": {
+			"textures": ["textures/blocks/tapis_rouge"]
+		},
+		"mdf_tapisnoir_up": {
+			"textures": ["textures/blocks/tapis_noir"]
+		},
+		"mdf_tapisnoir_down": {
+			"textures": ["textures/blocks/tapis_noir"]
+		},
+		"mdf_tapisnoir_south": {
+			"textures": ["textures/blocks/tapis_noir"]
+		},
+		"mdf_tapisnoir_north": {
+			"textures": ["textures/blocks/tapis_noir"]
+		},
+		"mdf_tapisnoir_west": {
+			"textures": ["textures/blocks/tapis_noir"]
+		},
+		"mdf_tapisnoir_east": {
+			"textures": ["textures/blocks/tapis_noir"]
+		},
+		"mdf_solgymnase_up": {
+			"textures": ["textures/blocks/sol_gymnase"]
+		},
+		"mdf_solgymnase_down": {
+			"textures": ["textures/blocks/sol_gymnase"]
+		},
+		"mdf_solgymnase_south": {
+			"textures": ["textures/blocks/sol_gymnase"]
+		},
+		"mdf_solgymnase_north": {
+			"textures": ["textures/blocks/sol_gymnase"]
+		},
+		"mdf_solgymnase_west": {
+			"textures": ["textures/blocks/sol_gymnase"]
+		},
+		"mdf_solgymnase_east": {
+			"textures": ["textures/blocks/sol_gymnase"]
+		},
+		"mdf_solgoudron_up": {
+			"textures": ["textures/blocks/sol_goudron"]
+		},
+		"mdf_solgoudron_down": {
+			"textures": ["textures/blocks/sol_goudron"]
+		},
+		"mdf_solgoudron_south": {
+			"textures": ["textures/blocks/sol_goudron"]
+		},
+		"mdf_solgoudron_north": {
+			"textures": ["textures/blocks/sol_goudron"]
+		},
+		"mdf_solgoudron_west": {
+			"textures": ["textures/blocks/sol_goudron"]
+		},
+		"mdf_solgoudron_east": {
+			"textures": ["textures/blocks/sol_goudron"]
+		},
+		"mdf_plafond_up": {
+			"textures": ["textures/blocks/plafond"]
+		},
+		"mdf_plafond_down": {
+			"textures": ["textures/blocks/plafond"]
+		},
+		"mdf_plafond_south": {
+			"textures": ["textures/blocks/plafond"]
+		},
+		"mdf_plafond_north": {
+			"textures": ["textures/blocks/plafond"]
+		},
+		"mdf_plafond_west": {
+			"textures": ["textures/blocks/plafond"]
+		},
+		"mdf_plafond_east": {
+			"textures": ["textures/blocks/plafond"]
+		},
+		"mdf_plafondaeration_up": {
+			"textures": ["textures/blocks/plafond_aeration_blanc_"]
+		},
+		"mdf_plafondaeration_down": {
+			"textures": ["textures/blocks/plafond_aeration_blanc_"]
+		},
+		"mdf_plafondaeration_south": {
+			"textures": ["textures/blocks/plafond_aeration_blanc_"]
+		},
+		"mdf_plafondaeration_north": {
+			"textures": ["textures/blocks/plafond_aeration_blanc_"]
+		},
+		"mdf_plafondaeration_west": {
+			"textures": ["textures/blocks/plafond_aeration_blanc_"]
+		},
+		"mdf_plafondaeration_east": {
+			"textures": ["textures/blocks/plafond_aeration_blanc_"]
+		},
+		"mdf_murvert_up": {
+			"textures": ["textures/blocks/mure_vert"]
+		},
+		"mdf_murvert_down": {
+			"textures": ["textures/blocks/mure_vert"]
+		},
+		"mdf_murvert_south": {
+			"textures": ["textures/blocks/mure_vert"]
+		},
+		"mdf_murvert_north": {
+			"textures": ["textures/blocks/mure_vert"]
+		},
+		"mdf_murvert_west": {
+			"textures": ["textures/blocks/mure_vert"]
+		},
+		"mdf_murvert_east": {
+			"textures": ["textures/blocks/mure_vert"]
+		},
+		"mdf_murorangeexterieur_up": {
+			"textures": ["textures/blocks/mure_orange_exterieur"]
+		},
+		"mdf_murorangeexterieur_down": {
+			"textures": ["textures/blocks/mure_orange_exterieur"]
+		},
+		"mdf_murorangeexterieur_south": {
+			"textures": ["textures/blocks/mure_orange_exterieur"]
+		},
+		"mdf_murorangeexterieur_north": {
+			"textures": ["textures/blocks/mure_orange_exterieur"]
+		},
+		"mdf_murorangeexterieur_west": {
+			"textures": ["textures/blocks/mure_orange_exterieur"]
+		},
+		"mdf_murorangeexterieur_east": {
+			"textures": ["textures/blocks/mure_orange_exterieur"]
+		},
+		"mdf_murgrissimple_up": {
+			"textures": ["textures/blocks/mure_gris_simple"]
+		},
+		"mdf_murgrissimple_down": {
+			"textures": ["textures/blocks/mure_gris_simple"]
+		},
+		"mdf_murgrissimple_south": {
+			"textures": ["textures/blocks/mure_gris_simple"]
+		},
+		"mdf_murgrissimple_north": {
+			"textures": ["textures/blocks/mure_gris_simple"]
+		},
+		"mdf_murgrissimple_west": {
+			"textures": ["textures/blocks/mure_gris_simple"]
+		},
+		"mdf_murgrissimple_east": {
+			"textures": ["textures/blocks/mure_gris_simple"]
+		},
+		"mdf_murinterieurgris_up": {
+			"textures": ["textures/blocks/mur_interieur_gris"]
+		},
+		"mdf_murinterieurgris_down": {
+			"textures": ["textures/blocks/mur_interieur_gris"]
+		},
+		"mdf_murinterieurgris_south": {
+			"textures": ["textures/blocks/mur_interieur_gris"]
+		},
+		"mdf_murinterieurgris_north": {
+			"textures": ["textures/blocks/mur_interieur_gris"]
+		},
+		"mdf_murinterieurgris_west": {
+			"textures": ["textures/blocks/mur_interieur_gris"]
+		},
+		"mdf_murinterieurgris_east": {
+			"textures": ["textures/blocks/mur_interieur_gris"]
+		},
+		"mdf_murencrepis_up": {
+			"textures": ["textures/blocks/mur_en_crepie"]
+		},
+		"mdf_murencrepis_down": {
+			"textures": ["textures/blocks/mur_en_crepie"]
+		},
+		"mdf_murencrepis_south": {
+			"textures": ["textures/blocks/mur_en_crepie"]
+		},
+		"mdf_murencrepis_north": {
+			"textures": ["textures/blocks/mur_en_crepie"]
+		},
+		"mdf_murencrepis_west": {
+			"textures": ["textures/blocks/mur_en_crepie"]
+		},
+		"mdf_murencrepis_east": {
+			"textures": ["textures/blocks/mur_en_crepie"]
+		},
+		"mdf_muramarrhaj_up": {
+			"textures": ["textures/blocks/mur_amarraj"]
+		},
+		"mdf_muramarrhaj_down": {
+			"textures": ["textures/blocks/mur_amarraj"]
+		},
+		"mdf_muramarrhaj_south": {
+			"textures": ["textures/blocks/mur_amarraj"]
+		},
+		"mdf_muramarrhaj_north": {
+			"textures": ["textures/blocks/mur_amarraj"]
+		},
+		"mdf_muramarrhaj_west": {
+			"textures": ["textures/blocks/mur_amarraj"]
+		},
+		"mdf_muramarrhaj_east": {
+			"textures": ["textures/blocks/mur_amarraj"]
+		},
+		"mdf_grilleevacuation_up": {
+			"textures": ["textures/blocks/grille_devacuation"]
+		},
+		"mdf_grilleevacuation_down": {
+			"textures": ["textures/blocks/grille_devacuation"]
+		},
+		"mdf_grilleevacuation_south": {
+			"textures": ["textures/blocks/grille_devacuation"]
+		},
+		"mdf_grilleevacuation_north": {
+			"textures": ["textures/blocks/grille_devacuation"]
+		},
+		"mdf_grilleevacuation_west": {
+			"textures": ["textures/blocks/grille_devacuation"]
+		},
+		"mdf_grilleevacuation_east": {
+			"textures": ["textures/blocks/grille_devacuation"]
+		},
+		"mdf_gravierblanc_up": {
+			"textures": ["textures/blocks/gravier_blanc"]
+		},
+		"mdf_gravierblanc_down": {
+			"textures": ["textures/blocks/gravier_blanc"]
+		},
+		"mdf_gravierblanc_south": {
+			"textures": ["textures/blocks/gravier_blanc"]
+		},
+		"mdf_gravierblanc_north": {
+			"textures": ["textures/blocks/gravier_blanc"]
+		},
+		"mdf_gravierblanc_west": {
+			"textures": ["textures/blocks/gravier_blanc"]
+		},
+		"mdf_gravierblanc_east": {
+			"textures": ["textures/blocks/gravier_blanc"]
+		},
+		"mdf_gravierblancgris_up": {
+			"textures": ["textures/blocks/gravier_blanc_gris"]
+		},
+		"mdf_gravierblancgris_down": {
+			"textures": ["textures/blocks/gravier_blanc_gris"]
+		},
+		"mdf_gravierblancgris_south": {
+			"textures": ["textures/blocks/gravier_blanc_gris"]
+		},
+		"mdf_gravierblancgris_north": {
+			"textures": ["textures/blocks/gravier_blanc_gris"]
+		},
+		"mdf_gravierblancgris_west": {
+			"textures": ["textures/blocks/gravier_blanc_gris"]
+		},
+		"mdf_gravierblancgris_east": {
+			"textures": ["textures/blocks/gravier_blanc_gris"]
+		},
+		"mdf_facadebatblanche_up": {
+			"textures": ["textures/blocks/facade_bat_blanche"]
+		},
+		"mdf_facadebatblanche_down": {
+			"textures": ["textures/blocks/facade_bat_blanche"]
+		},
+		"mdf_facadebatblanche_south": {
+			"textures": ["textures/blocks/facade_bat_blanche"]
+		},
+		"mdf_facadebatblanche_north": {
+			"textures": ["textures/blocks/facade_bat_blanche"]
+		},
+		"mdf_facadebatblanche_west": {
+			"textures": ["textures/blocks/facade_bat_blanche"]
+		},
+		"mdf_facadebatblanche_east": {
+			"textures": ["textures/blocks/facade_bat_blanche"]
+		},
+		"mdf_crepisdinterieur_up": {
+			"textures": ["textures/blocks/crepi_dinterieur"]
+		},
+		"mdf_crepisdinterieur_down": {
+			"textures": ["textures/blocks/crepi_dinterieur"]
+		},
+		"mdf_crepisdinterieur_south": {
+			"textures": ["textures/blocks/crepi_dinterieur"]
+		},
+		"mdf_crepisdinterieur_north": {
+			"textures": ["textures/blocks/crepi_dinterieur"]
+		},
+		"mdf_crepisdinterieur_west": {
+			"textures": ["textures/blocks/crepi_dinterieur"]
+		},
+		"mdf_crepisdinterieur_east": {
+			"textures": ["textures/blocks/crepi_dinterieur"]
+		}
 	}
 }

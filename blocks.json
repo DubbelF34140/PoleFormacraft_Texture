@@ -1,2 +1,294 @@
 {
+	"bureaub107": {
+		"sound": "stone"
+	},
+	"table107a": {
+		"sound": "stone"
+	},
+	"mdf:fautplafong": {
+		"textures": {
+			"up": "mdf_fautplafong_up",
+			"down": "mdf_fautplafong_down",
+			"south": "mdf_fautplafong_south",
+			"north": "mdf_fautplafong_north",
+			"west": "mdf_fautplafong_west",
+			"east": "mdf_fautplafong_east"
+		},
+		"sound": "stone"
+	},
+	"mdf:solcarreaux": {
+		"textures": {
+			"up": "mdf_solcarreaux_up",
+			"down": "mdf_solcarreaux_down",
+			"south": "mdf_solcarreaux_south",
+			"north": "mdf_solcarreaux_north",
+			"west": "mdf_solcarreaux_west",
+			"east": "mdf_solcarreaux_east"
+		},
+		"sound": "stone"
+	},
+	"mdf:groudonrouge": {
+		"textures": {
+			"up": "mdf_groudonrouge_up",
+			"down": "mdf_groudonrouge_down",
+			"south": "mdf_groudonrouge_south",
+			"north": "mdf_groudonrouge_north",
+			"west": "mdf_groudonrouge_west",
+			"east": "mdf_groudonrouge_east"
+		},
+		"sound": "stone"
+	},
+	"mdf:mur_cfai": {
+		"textures": {
+			"up": "mdf_mur_cfai_up",
+			"down": "mdf_mur_cfai_down",
+			"south": "mdf_mur_cfai_south",
+			"north": "mdf_mur_cfai_north",
+			"west": "mdf_mur_cfai_west",
+			"east": "mdf_mur_cfai_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:pietonaveugle": {
+		"textures": {
+			"up": "mdf_pietonaveugle_up",
+			"down": "mdf_pietonaveugle_down",
+			"south": "mdf_pietonaveugle_south",
+			"north": "mdf_pietonaveugle_north",
+			"west": "mdf_pietonaveugle_west",
+			"east": "mdf_pietonaveugle_east"
+		},
+		"sound": "stone"
+	},
+	"mdf:sol_parquet": {
+		"textures": {
+			"up": "mdf_sol_parquet_up",
+			"down": "mdf_sol_parquet_down",
+			"south": "mdf_sol_parquet_south",
+			"north": "mdf_sol_parquet_north",
+			"west": "mdf_sol_parquet_west",
+			"east": "mdf_sol_parquet_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:sol_cailloux_bats": {
+		"textures": {
+			"up": "mdf_sol_cailloux_bats_up",
+			"down": "mdf_sol_cailloux_bats_down",
+			"south": "mdf_sol_cailloux_bats_south",
+			"north": "mdf_sol_cailloux_bats_north",
+			"west": "mdf_sol_cailloux_bats_west",
+			"east": "mdf_sol_cailloux_bats_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:voletroulantgris": {
+		"textures": {
+			"up": "mdf_voletroulantgris_up",
+			"down": "mdf_voletroulantgris_down",
+			"south": "mdf_voletroulantgris_south",
+			"north": "mdf_voletroulantgris_north",
+			"west": "mdf_voletroulantgris_west",
+			"east": "mdf_voletroulantgris_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:taulegrisegymnase": {
+		"textures": {
+			"up": "mdf_taulegrisegymnase_up",
+			"down": "mdf_taulegrisegymnase_down",
+			"south": "mdf_taulegrisegymnase_south",
+			"north": "mdf_taulegrisegymnase_north",
+			"west": "mdf_taulegrisegymnase_west",
+			"east": "mdf_taulegrisegymnase_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:tapisrouge": {
+		"textures": {
+			"up": "mdf_tapisrouge_up",
+			"down": "mdf_tapisrouge_down",
+			"south": "mdf_tapisrouge_south",
+			"north": "mdf_tapisrouge_north",
+			"west": "mdf_tapisrouge_west",
+			"east": "mdf_tapisrouge_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:tapisnoir": {
+		"textures": {
+			"up": "mdf_tapisnoir_up",
+			"down": "mdf_tapisnoir_down",
+			"south": "mdf_tapisnoir_south",
+			"north": "mdf_tapisnoir_north",
+			"west": "mdf_tapisnoir_west",
+			"east": "mdf_tapisnoir_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:solgymnase": {
+		"textures": {
+			"up": "mdf_solgymnase_up",
+			"down": "mdf_solgymnase_down",
+			"south": "mdf_solgymnase_south",
+			"north": "mdf_solgymnase_north",
+			"west": "mdf_solgymnase_west",
+			"east": "mdf_solgymnase_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:solgoudron": {
+		"textures": {
+			"up": "mdf_solgoudron_up",
+			"down": "mdf_solgoudron_down",
+			"south": "mdf_solgoudron_south",
+			"north": "mdf_solgoudron_north",
+			"west": "mdf_solgoudron_west",
+			"east": "mdf_solgoudron_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:plafond": {
+		"textures": {
+			"up": "mdf_plafond_up",
+			"down": "mdf_plafond_down",
+			"south": "mdf_plafond_south",
+			"north": "mdf_plafond_north",
+			"west": "mdf_plafond_west",
+			"east": "mdf_plafond_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:plafondaeration": {
+		"textures": {
+			"up": "mdf_plafondaeration_up",
+			"down": "mdf_plafondaeration_down",
+			"south": "mdf_plafondaeration_south",
+			"north": "mdf_plafondaeration_north",
+			"west": "mdf_plafondaeration_west",
+			"east": "mdf_plafondaeration_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:murvert": {
+		"textures": {
+			"up": "mdf_murvert_up",
+			"down": "mdf_murvert_down",
+			"south": "mdf_murvert_south",
+			"north": "mdf_murvert_north",
+			"west": "mdf_murvert_west",
+			"east": "mdf_murvert_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:murorangeexterieur": {
+		"textures": {
+			"up": "mdf_murorangeexterieur_up",
+			"down": "mdf_murorangeexterieur_down",
+			"south": "mdf_murorangeexterieur_south",
+			"north": "mdf_murorangeexterieur_north",
+			"west": "mdf_murorangeexterieur_west",
+			"east": "mdf_murorangeexterieur_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:murgrissimple": {
+		"textures": {
+			"up": "mdf_murgrissimple_up",
+			"down": "mdf_murgrissimple_down",
+			"south": "mdf_murgrissimple_south",
+			"north": "mdf_murgrissimple_north",
+			"west": "mdf_murgrissimple_west",
+			"east": "mdf_murgrissimple_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:murinterieurgris": {
+		"textures": {
+			"up": "mdf_murinterieurgris_up",
+			"down": "mdf_murinterieurgris_down",
+			"south": "mdf_murinterieurgris_south",
+			"north": "mdf_murinterieurgris_north",
+			"west": "mdf_murinterieurgris_west",
+			"east": "mdf_murinterieurgris_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:murencrepis": {
+		"textures": {
+			"up": "mdf_murencrepis_up",
+			"down": "mdf_murencrepis_down",
+			"south": "mdf_murencrepis_south",
+			"north": "mdf_murencrepis_north",
+			"west": "mdf_murencrepis_west",
+			"east": "mdf_murencrepis_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:muramarrhaj": {
+		"textures": {
+			"up": "mdf_muramarrhaj_up",
+			"down": "mdf_muramarrhaj_down",
+			"south": "mdf_muramarrhaj_south",
+			"north": "mdf_muramarrhaj_north",
+			"west": "mdf_muramarrhaj_west",
+			"east": "mdf_muramarrhaj_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:grilleevacuation": {
+		"textures": {
+			"up": "mdf_grilleevacuation_up",
+			"down": "mdf_grilleevacuation_down",
+			"south": "mdf_grilleevacuation_south",
+			"north": "mdf_grilleevacuation_north",
+			"west": "mdf_grilleevacuation_west",
+			"east": "mdf_grilleevacuation_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:gravierblanc": {
+		"textures": {
+			"up": "mdf_gravierblanc_up",
+			"down": "mdf_gravierblanc_down",
+			"south": "mdf_gravierblanc_south",
+			"north": "mdf_gravierblanc_north",
+			"west": "mdf_gravierblanc_west",
+			"east": "mdf_gravierblanc_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:gravierblancgris": {
+		"textures": {
+			"up": "mdf_gravierblancgris_up",
+			"down": "mdf_gravierblancgris_down",
+			"south": "mdf_gravierblancgris_south",
+			"north": "mdf_gravierblancgris_north",
+			"west": "mdf_gravierblancgris_west",
+			"east": "mdf_gravierblancgris_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:facadebatblanche": {
+		"textures": {
+			"up": "mdf_facadebatblanche_up",
+			"down": "mdf_facadebatblanche_down",
+			"south": "mdf_facadebatblanche_south",
+			"north": "mdf_facadebatblanche_north",
+			"west": "mdf_facadebatblanche_west",
+			"east": "mdf_facadebatblanche_east"
+		},
+		"sound": "gravel"
+	},
+	"mdf:crepisdinterieur": {
+		"textures": {
+			"up": "mdf_crepisdinterieur_up",
+			"down": "mdf_crepisdinterieur_down",
+			"south": "mdf_crepisdinterieur_south",
+			"north": "mdf_crepisdinterieur_north",
+			"west": "mdf_crepisdinterieur_west",
+			"east": "mdf_crepisdinterieur_east"
+		},
+		"sound": "gravel"
+	}
 }
