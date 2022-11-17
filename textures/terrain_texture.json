@@ -4,6 +4,9 @@
 	"padding": 8,
 	"num_mip_levels": 4,
 	"texture_data": {
+		"doublescreen": {
+			"textures": "textures/blocks/doublescreen.png"
+		},
 		"bureaub107": {
 			"textures": "textures/blocks/bureaub107.png"
 		},
